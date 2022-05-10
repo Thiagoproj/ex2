@@ -1,0 +1,13 @@
+@charset "UTF=8";
+body{
+background-color: rgb(3, 126, 203);
+}
+ul li{
+    text-decoration: none;
+    color: rgb(26, 8, 225);
+    font-weight:bold;
+}
+figure{
+    text-align: center;
+    border: 2px solid rgb(192, 95, 241);
+}
